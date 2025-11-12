@@ -141,7 +141,6 @@ Detailed visual analysis:
 
 
 ![Summary Dashboard](https://github.com/tiliya-dharmendra/bank-loan-report-excel/blob/52954b41a647cb4808685da685efc1c3184bae84/Bank%20Loan%20Report%20Summary.png)
-![Overview Dashboard](Bank Loan Report Overview.pngBank Loan Report Summary.png)
 
 
 ## 📁 Project Folder Structure
@@ -198,9 +197,11 @@ Bank-Loan-Report-Excel/
 ## 💬 Author & Contact 
 
 Dharmendra sahu
-
+Data Analyst
 📧 [dharmendrasahut2021@gmail.com](mailto:dharmendrasahut2021@gmail.com)
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/dharmendra-sahu21)
+
 💻 [GitHub Profile](https://github.com/tiliya-dharmendra)
 
 
@@ -208,3 +209,4 @@ Dharmendra sahu
 
 
 #Excel #DataAnalysis #Dashboard #PowerQuery #LoanAnalytics #FinancialAnalysis
+
