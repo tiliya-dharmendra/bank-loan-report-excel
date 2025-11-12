@@ -197,7 +197,9 @@ Bank-Loan-Report-Excel/
 ## 💬 Author & Contact 
 
 Dharmendra sahu
+
 Data Analyst
+
 📧 [dharmendrasahut2021@gmail.com](mailto:dharmendrasahut2021@gmail.com)
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/dharmendra-sahu21)
@@ -209,4 +211,5 @@ Data Analyst
 
 
 #Excel #DataAnalysis #Dashboard #PowerQuery #LoanAnalytics #FinancialAnalysis
+
 
